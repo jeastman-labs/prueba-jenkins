@@ -1,0 +1,27 @@
+{
+  "name": "prueba-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeastman19/prueba-jenkins.git"
+  },
+  "keywords": [],
+  "author": "Jorge Eastman <jeastman19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeastman19/prueba-jenkins/issues"
+  },
+  "homepage": "https://github.com/jeastman19/prueba-jenkins#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2",
+    "supertest": "^4.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
