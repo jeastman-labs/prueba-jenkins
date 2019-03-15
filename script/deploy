@@ -1,5 +1,5 @@
 whoami
-ssh -tt deploy@68.183.249.142 <<EOF
+ssh -tt root@68.183.249.142 <<EOF
     cd /var/www/vortex-lab/prueba-jenkins
     git pull
     npm install -- production
